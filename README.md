@@ -21,3 +21,7 @@
 >   - Also I learnt that concurrency can be a beautifully simple endeavour, that there are actually a lot of ways to do it and that it actually makes things faster without adding unnecessary complexity.
 >   - I learnt how rich types can give structure, meaning and modularity to a piece of code (almost) for free.
 > - And all this in one language, with a great package manager, a lovely collection of well thought libraries, an industrial strength compiler, testing tools, profiling options, and a great community full of the smartest people I've ever met. I haven't touched Clojure since.
+
+---
+
+TODO: [Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
