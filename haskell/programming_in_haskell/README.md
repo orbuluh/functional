@@ -8,4 +8,6 @@
 
 ## [Chapter 4. Defining functions](notes/4.defining_functions.md)
 
+## [Chapter 5. List comprehensions](notes/5.list_comprehensions.md)
+
 ## [Exercise solutions](exercise)
