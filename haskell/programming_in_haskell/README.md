@@ -10,4 +10,6 @@
 
 ## [Chapter 5. List comprehensions](notes/5.list_comprehensions.md)
 
+## [Chapter 6. Recursive functions](notes/6.recursive_functions.md)
+
 ## [Exercise solutions](exercise)
