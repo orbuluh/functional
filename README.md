@@ -25,3 +25,5 @@
 ---
 
 TODO: [Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
+
+TODO: J. Gibbons and O. de Moor, Eds., *The fun of programming* - recommended read for lots of higher order function composition or so

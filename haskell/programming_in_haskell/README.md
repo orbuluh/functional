@@ -12,4 +12,6 @@
 
 ## [Chapter 6. Recursive functions](notes/6.recursive_functions.md)
 
+## [Chapter 7. Higher-order function](notes/7.higher_order_function.md)
+
 ## [Exercise solutions](exercise)
